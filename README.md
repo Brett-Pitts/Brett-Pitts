@@ -1,4 +1,4 @@
-# Hi, I'm Brett-Pitts 👋
+# Hi, I'm Brett Pitts 👋
 
 I'm a Computer Science student (started 2025) passionate about programming and learning C++.  
 
