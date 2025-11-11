@@ -1,6 +1,6 @@
 # Hi, I'm Brett Pitts 👋
 
-I'm a Computer Science student (started 2025) passionate about programming and learning C++.  
+I'm a Comp Sci Student.  
 
 ## My Coding Activity
 
